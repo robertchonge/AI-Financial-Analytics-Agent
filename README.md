@@ -1,5 +1,5 @@
 
-📊 AI Financial Statement Analyzer
+📊 AI-Financial-Analytics-Agent
 
 A web tool that analyzes CSV, Excel, and PDF financial statements using AI.
 Auto-generates:
